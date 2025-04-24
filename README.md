@@ -1,6 +1,23 @@
-# 💫 About Me:
-### Hi, I'm Khant Bhone Naing aka Noah<br><br>👨‍💻 Youthful coder with a passion for innovation and creativity.<br><br>🌟 Java Spring Boot enthusiast building the future of tech.<br><br>🚀 Crafting dynamic web experiences with JavaScript, HTML, CSS, and Bootstrap.<br><br>
-⚡️ Building lightning-fast, interactive user interfaces with React.js, where creativity meets performance.<br><br> 💡 Dedicated to learning, growing, and making a positive impact in the tech community.<br><br>🔥 Transforming ideas into reality, one line of code at a time.<br><br>🌱 Embracing the journey of youth in the world of technology.<br><br>
+💻 About Me
+Hi, I'm Khant Bhone Naing (Noah)
+🚀 Full-Stack Developer with 1+ year of hands-on experience building robust web applications and automation tools.
+
+My Toolkit:
+☕ Backend: Java (Spring Boot), Node.js
+🛢️ Databases: MySQL
+🎨 Frontend: HTML5, CSS3, JavaScript (ES6+), Bootstrap, React.js
+⚡ Automation: VBA, VBScript, PowerShell, Shell Scripting
+📊 Data Tools: Advanced Excel
+
+What I Bring to the Table:
+✔️ Full-Stack Proficiency – From RESTful APIs (Spring Boot/Node) to dynamic UIs (React.js).
+✔️ Automation Expertise – Streamlining workflows with scripts (PowerShell/VBA).
+✔️ Problem-Solver – Debugging complex issues and optimizing performance.
+✔️ Agile Mindset – Adaptable learner thriving in collaborative environments.
+
+Current Focus:
+🔹 Elevating my skills in microservices architecture.
+🔹 Building scalable, maintainable code with clean coding practices.
 <br>[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/noah.khant?mibextid=ZbWKwL)
 [![JobNet](https://img.shields.io/badge/JobNet.co.mm-0072BC?style=for-the-badge&logoColor=white)](https://www.jobnet.com.mm/job-seeker/dashboard/profile)
 
