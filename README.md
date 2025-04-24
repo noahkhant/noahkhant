@@ -1,23 +1,40 @@
-💻 About Me
-Hi, I'm Khant Bhone Naing (Noah)
-🚀 Full-Stack Developer with 1+ year of hands-on experience building robust web applications and automation tools.
+<section class="about-me">
+  <h1>💻 About Me</h1>
+  
+  <div class="intro">
+    <h2>Hi, I'm <span class="highlight">Khant Bhone Naing (Noah)</span></h2>
+    <p class="tagline">🚀 Full-Stack Developer with 1+ year of hands-on experience building robust web applications and automation tools.</p>
+  </div>
 
-My Toolkit:
-☕ Backend: Java (Spring Boot), Node.js
-🛢️ Databases: MySQL
-🎨 Frontend: HTML5, CSS3, JavaScript (ES6+), Bootstrap, React.js
-⚡ Automation: VBA, VBScript, PowerShell, Shell Scripting
-📊 Data Tools: Advanced Excel
+  <div class="skills-section">
+    <h3>🛠️ My Toolkit</h3>
+    <ul class="skills-list">
+      <li><strong>☕ Backend:</strong> Java (Spring Boot), Node.js</li>
+      <li><strong>🛢️ Databases:</strong> MySQL</li>
+      <li><strong>🎨 Frontend:</strong> HTML5, CSS3, JavaScript (ES6+), Bootstrap, React.js</li>
+      <li><strong>⚡ Automation:</strong> VBA, VBScript, PowerShell, Shell Scripting</li>
+      <li><strong>📊 Data Tools:</strong> Advanced Excel</li>
+    </ul>
+  </div>
 
-What I Bring to the Table:
-✔️ Full-Stack Proficiency – From RESTful APIs (Spring Boot/Node) to dynamic UIs (React.js).
-✔️ Automation Expertise – Streamlining workflows with scripts (PowerShell/VBA).
-✔️ Problem-Solver – Debugging complex issues and optimizing performance.
-✔️ Agile Mindset – Adaptable learner thriving in collaborative environments.
+  <div class="value-proposition">
+    <h3>✨ What I Bring to the Table</h3>
+    <ul class="value-list">
+      <li>✔️ <strong>Full-Stack Proficiency</strong> – From RESTful APIs (Spring Boot/Node) to dynamic UIs (React.js)</li>
+      <li>✔️ <strong>Automation Expertise</strong> – Streamlining workflows with scripts (PowerShell/VBA)</li>
+      <li>✔️ <strong>Problem-Solver</strong> – Debugging complex issues and optimizing performance</li>
+      <li>✔️ <strong>Agile Mindset</strong> – Adaptable learner thriving in collaborative environments</li>
+    </ul>
+  </div>
 
-Current Focus:
-🔹 Elevating my skills in microservices architecture.
-🔹 Building scalable, maintainable code with clean coding practices.
+  <div class="goals">
+    <h3>🔭 Current Focus</h3>
+    <ul>
+      <li>🔹 Elevating my skills in microservices architecture</li>
+      <li>🔹 Building scalable, maintainable code with clean coding practices</li>
+    </ul>
+  </div>
+</section>
 <br>[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/noah.khant?mibextid=ZbWKwL)
 [![JobNet](https://img.shields.io/badge/JobNet.co.mm-0072BC?style=for-the-badge&logoColor=white)](https://www.jobnet.com.mm/job-seeker/dashboard/profile)
 
