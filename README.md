@@ -64,36 +64,3 @@
 [![](https://visitcount.itsvg.in/api?id=noahkhant&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--This is for css designs-->
-.about-me {
-  font-family: 'Segoe UI', sans-serif;
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-  color: #333;
-}
-
-.highlight {
-  color: #2c3e50;
-  font-weight: 600;
-}
-
-.tagline {
-  font-size: 1.1em;
-  color: #7f8c8d;
-}
-
-.skills-list, .value-list {
-  list-style-type: none;
-  padding-left: 0;
-}
-
-.skills-list li, .value-list li {
-  padding: 5px 0;
-}
-
-h3 {
-  border-bottom: 2px solid #3498db;
-  padding-bottom: 5px;
-  margin-top: 25px;
-}
